@@ -1,6 +1,10 @@
 <h1 align="center">Linkedin Clone ✨</h1>
 
+<<<<<<< HEAD
 ![Demo App](/frontend/public/Group%20155.png.png)
+=======
+![Demo App](/frontend/public/Group 155.png)
+>>>>>>> ed51f1563a5441249aaff7dbe4544cc55b4656ab
 
 About This Project:
 
