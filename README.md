@@ -1,6 +1,6 @@
 <h1 align="center">Linkedin Clone ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/Group 155.png)
 
 About This Project:
 
