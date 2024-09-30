@@ -1,7 +1,7 @@
 <h1 align="center">Linkedin Clone ✨</h1>
 
 
-![Demo App](/frontend/public/Group 155.png)
+![Demo App](https://github.com/user-attachments/assets/23e2d310-b78b-4bf3-9d4e-2450ffa24c91)
 
 
 About This Project:
